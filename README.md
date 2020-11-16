@@ -20,9 +20,9 @@
   You can try the app on heroku here: [Heroku Deployed App](https://offline-trk-budget.herokuapp.com/).  
   
   ## Screenshots
-  ![screenshot]()
-  ![screenshot]()
-  ![screenshot]()
+  ![screenshot](screenshots/1.png)
+  ![screenshot](screenshots/2.png)
+  ![screenshot](screenshots/3.png)
   
   ## License
   None
